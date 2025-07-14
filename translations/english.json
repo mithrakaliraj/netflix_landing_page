@@ -1,0 +1,41 @@
+{
+    "header": {
+        "signin": "Sign in"
+    },
+    "hero": {
+        "title": "Unlimited Movies, TV Shows, and More.",
+        "subtitle": "Watch anywhere. Cancel anytime.",
+        "description": "Ready to watch? Enter your email to create or restart your membership.",
+        "email_placeholder": "Email address",
+        "get_started": "Get Started"
+    },
+    "features": {
+        "feature1_title": "Enjoy on your TV.",
+        "feature1_subtitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.",
+        "feature2_title": "Download your shows to watch offline.",
+        "feature2_subtitle": "Save your favourites easily and always have something to watch.",
+        "feature3_title": "Watch everywhere.",
+        "feature3_subtitle": "Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.",
+        "feature4_title": "Create profiles for children.",
+        "feature4_subtitle": "Send children on adventures with their favourite characters in a space made just for them—free with your membership."
+    },
+    "footer": {
+        "header": "Questions? Call 000-800-040-1843",
+        "faq": "FAQ",
+        "help_centre": "Help Centre",
+        "account": "Account",
+        "media_centre": "Media Centre",
+        "investor_relations": "Investor Relations",
+        "jobs": "Jobs",
+        "ways_to_watch": "Ways to Watch",
+        "terms_of_use": "Terms of Use",
+        "privacy": "Privacy",
+        "cookie_preferences": "Cookie Preferences",
+        "corporate_information": "Corporate Information",
+        "contact_us": "Contact Us",
+        "speed_test": "Speed Test",
+        "legal_notices": "Legal Notices",
+        "only_on_netflix": "Only on Netflix",
+        "copyright": "Netflix India"
+    }
+}
